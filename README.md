@@ -1,4 +1,3 @@
-```markdown
 # Image Captioning Project
 
 ## Overview
@@ -20,7 +19,7 @@ This project aims to generate textual descriptions (captions) for images using m
 
 3. **Download the Dataset:** 
    - Download the Flickr8k dataset from [here](https://www.kaggle.com/datasets/adityajn105/flickr8k).
-   - Extract the dataset into the `data` directory.
+   - Extract the dataset into the `input` directory.
 
 4. **Training:**
    - Run [TRAIN-image-captioning-with-attention.ipynb](TRAIN-image-captioning-with-attention.ipynb) to train the captioning model with attention.
